@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vieira-dev-dotcom
+- 👋 Hi, I’m Vieira Ntwali
 - 👀 I’m interested in Web development, AI/ML, Data science and cybersecurity 
 - 🌱 I’m currently learning Rwanda Coding Academy
 - 💞️ I’m looking to collaborate on cybersecurity-rehack-repo
